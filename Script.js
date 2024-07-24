@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         Auto-fill Agenda
-// @namespace    https://hugo-marc.fr/
+// @namespace    http://hugo-marc.fr/
 // @version      2.0
 // @description  Remplir automatiquement l'agenda sur clic avec options dynamiques et mise à jour des tâches
 // @author       Freyzi76
-// @include      /^https:\/\/eugene\..*\.fr\/planning\/.*$/
+// @match        https://*/planning
+// @match        https://*/planning/*
 // @grant        none
 // ==/UserScript==
 
