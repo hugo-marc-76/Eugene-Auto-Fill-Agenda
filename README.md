@@ -11,8 +11,7 @@ Créé un nouveau script dans TamperMonkey,
 
 Copier coller le code puis faite **control + s** pour sauvegarder,
 
-![351716839-68ab895b-8fcf-41ca-82e9-a69620555759](https://github.com/user-attachments/assets/72e9a31c-1319-45c9-8042-a8c52ab7770c)
-
+![image](https://github.com/user-attachments/assets/deb8b5e1-328e-4a56-96d2-456f3a029b8a)
 
 Maintenant retourner sur Eugene est actualiser la page ( **control + F5** ),
 Assurer vous d'activer le script en cliquant sur le bouton **Toggle Auto-Fill**,
